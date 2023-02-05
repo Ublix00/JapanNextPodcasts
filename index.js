@@ -37,7 +37,7 @@ async function Cargadedatos(n = 0,i=50){
         ImgLogo="src/EllaNoTeAma.jpg"
         break
       case 3:
-        ImgLogo="src/m.gif"
+        ImgLogo="src/Misterios.gif"
         break
       default:
         ImgLogo="src/Special.jpg"
